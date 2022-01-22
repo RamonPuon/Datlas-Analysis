@@ -1,3 +1,4 @@
 venv/
 /token_file.py
 __pycache__/
+/regex.ipynb
