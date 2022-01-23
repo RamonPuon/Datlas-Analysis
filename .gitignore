@@ -2,3 +2,4 @@ venv/
 __pycache__/
 token_file.py
 /Charts/
+dataset.ipynb
